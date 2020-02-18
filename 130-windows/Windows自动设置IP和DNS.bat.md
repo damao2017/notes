@@ -1,4 +1,4 @@
-# Windows自动设置IP和DNS.bat
+# windows自动设置IP和DNS.bat
 
 ```bash
 @echo off
