@@ -1,4 +1,4 @@
-# ubuntu权限
+# ubuntu 权限
 
 <user list> <host list> = <operator list> <tag list> <command list>
 

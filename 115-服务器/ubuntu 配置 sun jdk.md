@@ -1,4 +1,4 @@
-# ubuntu配置sun jdk
+# ubuntu 配置 sun jdk
 
 1.下载文件并上传
 

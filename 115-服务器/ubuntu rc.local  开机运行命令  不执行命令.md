@@ -1,4 +1,4 @@
-# ubuntu   rc.local  开机运行命令  不执行命令
+# ubuntu rc.local  开机运行命令  不执行命令
 
  添加到/etc/rc.local的exit 0 前面 
 

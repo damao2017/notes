@@ -1,4 +1,4 @@
-# ubuntu tomcat 8.5配置
+# ubuntu tomcat 8.5配置证书
 
 配置好jdk以后，上传tomcat文件夹，直接可以运行，无需配置。
 

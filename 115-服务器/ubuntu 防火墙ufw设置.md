@@ -1,4 +1,4 @@
-# ubuntu防火墙ufw设置
+# ubuntu 防火墙ufw设置
 
 启动、禁用、重置UFW
 

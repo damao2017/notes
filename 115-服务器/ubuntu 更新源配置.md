@@ -1,4 +1,4 @@
-# ubuntu更新源配置
+# ubuntu 更新源配置
 
 先查看ubuntu是什么版本的。
 

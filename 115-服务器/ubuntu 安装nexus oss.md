@@ -1,4 +1,4 @@
-# ubuntu安装nexus oss
+# ubuntu 安装nexus oss
 
 nexus3依赖jdk8
 
